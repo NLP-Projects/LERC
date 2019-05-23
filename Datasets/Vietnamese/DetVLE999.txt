@@ -833,7 +833,7 @@ chim_biển rau_củ 0
 gà gà_mái_tơ 1
 thuốc_uống gà 0
 gà động_vật -1
-tôm_càng_xanh động_vật 0
+tôm_càng_xanh động_vật_chân_đầu 0
 chim chim_hồng_hạc 1
 cá_ngừ_đại_dương chim 0
 khoai_lang cây_lương_thực -1
@@ -944,7 +944,7 @@ vẹt chim -1
 máy_cầy chim 0
 đường đường_kính 1
 đau_lưng đường 0
-thú động_vật -1
+thú động_vật_có_vú_và_nhau_thai -1
 giày_thể_thao động_vật 0
 khoa_học_tự_nhiên toán 1
 cá_ba_sa khoa_học_tự_nhiên 0
@@ -964,7 +964,7 @@ mùa_đông mùa -1
 chó_pit_bull mùa 0
 dấu dấu_phẩy 1
 tranh_minh_hoạ dấu 0
-loa_kèn hoa -1
+thực_vật_họ_loa_kèn thực_vật_chi_hành -1
 chanh_đào hoa 0
 danh danh_dự 1
 bóng danh 0
@@ -1022,7 +1022,7 @@ thực_phẩm cá 1
 khỉ_mõm_chó thực_phẩm 0
 tủ_quần_áo tủ -1
 tranh_tết tủ 0
-cá cá_nóc 1
+động_vật_chân_khớp động_vật_thuộc_lớp_nhện 1
 xe_đạp cá 0
 cây_cọ cây -1
 thuốc_bắc cây 0
