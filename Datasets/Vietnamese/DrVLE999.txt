@@ -683,7 +683,7 @@ giày_thể_thao giày -1
 thực_phẩm trứng 1
 đàn_bầu đàn -1
 hoa bằng_lăng 1
-bán_nguyên_âm âm -1
+nhựa_dẻo nhựa -1
 cấp_phép sự_giao_phó 1
 củ_sắn củ -1
 hoa hoa_dơn 1
@@ -749,7 +749,7 @@ hoa_đào hoa -1
 mưu mưu_hại 1
 tàu_hỏa tàu -1
 bánh bánh_chưng 1
-tháng_giêng tháng -1
+thép_không_gỉ thép -1
 bánh bánh_cáy 1
 nhạc_dân_ca âm_nhạc -1
 cây cây_đào 1
@@ -834,7 +834,7 @@ rau_củ cà_chua 1
 viêm_não bệnh -1
 kiến kiến_vàng 1
 cây_xanh cây -1
-tiền tiền_vàng 1
+vải vải_thô 1
 chó_ngao chó -1
 rau rau_cải 1
 cây_cổ_thụ cây -1
@@ -875,7 +875,7 @@ hoa_hải_đường hoa -1
 bàn bàn_học 1
 giày_lười giày -1
 bò bò_u_ấn_độ 1
-ốc_nướng ốc -1
+gỗ_lim gỗ -1
 tủ tủ_kính_trưng_bày 1
 hồng_nhung hoa_hồng -1
 xoài xoài_tượng 1
@@ -968,7 +968,7 @@ cấp_phép thừa_nhận 1
 thịt_gà thịt -1
 cây cây_hoa 1
 cây_sung cây -1
-tháng tháng_năm 1
+kính kính_cường_lực 1
 tỏi_tây rau_củ -1
 hoa hoa_phượng 1
 gà_ri gà -1
